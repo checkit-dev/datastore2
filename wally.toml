@@ -1,0 +1,8 @@
+[package]
+name = "ulferno/datastore2"
+description = "Port of DataStore2 by Kampfkarren for Wally compatibility"
+version = "1.4.0"
+license = "MIT"
+authors = []
+realm = "shared"
+registry = "https://github.com/upliftgames/wally-index"

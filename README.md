@@ -1,0 +1,1 @@
+This is a fork of [Kampfkarren's DataStore2](https://github.com/Kampfkarren/Roblox/tree/master/DataStore2) to be compatible with [Wally](https://github.com/UpliftGames/wally).
